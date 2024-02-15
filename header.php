@@ -24,7 +24,6 @@ $skip_link_url = apply_filters( 'hello_elementor_skip_link_url', '#content' );
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-<h1>h1 de prueba desde local a remoto</h1>
 <?php wp_body_open(); ?>
 
 <?php if ( $enable_skip_link ) { ?>
