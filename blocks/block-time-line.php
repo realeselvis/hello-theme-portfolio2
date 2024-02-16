@@ -65,7 +65,10 @@
         z-index: 30;
     }
 
-    
+    .dotted p, .decade p {
+        margin-bottom: 0px;
+    }
+
     .experience, .study{
         /* background-color: gray; */
         height: 200px; 
@@ -395,7 +398,7 @@ $multimedias = array(
         'bg_year_study' => 'rgba(142, 80, 52, 0.75)',
     ),
     'year_2015' => array(
-        'logo_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/epa-def.webp',
+        'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/epa-def.webp',
         'year' => 2015,
         'type_div_central' => 'dotted',
         'logo_study' => 'https://realeselvis.online/wp-content/uploads/2024/02/ucv.webp',
