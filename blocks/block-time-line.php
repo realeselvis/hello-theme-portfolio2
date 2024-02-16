@@ -321,7 +321,7 @@ $multimedias = array(
         'logo_experience' => '',
         'year' => 2005,
         'type_div_central' => 'dotted',
-        'logo_study' => 'https://realeselvis.online/wp-content/uploads/2024/02/nunez_ponte.webp',
+        'logo_study' => 'https://realeelvis.online/wp-content/uploads/2024/02/nunez_ponte.webp',
         'bg_year_experience' => '',
         'bg_year_study' => 'rgba(44, 121, 151, 0.75)',
     ),
@@ -345,12 +345,12 @@ $multimedias = array(
         'logo_experience' => '',
         'year' => 2008,
         'type_div_central' => 'dotted',
-        'logo_study' => 'https://realeselvis.online/wp-content/uploads/2024/02/images.webp',
+        'logo_study' => 'https://realeelvis.online/wp-content/uploads/2024/02/images.webp',
         'bg_year_experience' => '',
         'bg_year_study' => 'rgba(134, 10, 24, 0.75)',
     ),
     'year_2009' => array(
-        'logo_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/Diseno-sin-titulo-3.png',
+        'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/dise195177o-sin-t195173tulo-3.webp',
         'year' => 2009,
         'type_div_central' => 'dotted',
         'logo_study' => '',
@@ -366,10 +366,10 @@ $multimedias = array(
         'bg_year_study' => 'rgba(0, 0, 102, 0.75)',
     ),
     'year_2011' => array(
-        'logo_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/trabajo_informal.png',
+        'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/trabajo-informal.webp',
         'year' => 2011,
         'type_div_central' => 'dotted',
-        'logo_study' => 'https://realeselvis.online/wp-content/uploads/2024/02/uneser.webp',
+        'logo_study' => 'https://realeelvis.online/wp-content/uploads/2024/02/uneser.webp',
         'bg_year_experience' => 'rgba(162, 168, 161, 0.75)',
         'bg_year_study' => 'rgba(0, 0, 102, 0.75)',
     ),
@@ -382,7 +382,7 @@ $multimedias = array(
         'bg_year_study' => 'rgba(0, 0, 102, 0.75)',
     ),
     'year_2013' => array(
-        'logo_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/Diseno-sin-titulo-4.png',
+        'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/dise195177o-sin-t195173tulo-4.webp',
         'year' => 2013,
         'type_div_central' => 'dotted',
         'logo_study' => '',
@@ -401,7 +401,7 @@ $multimedias = array(
         'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/epa-def.webp',
         'year' => 2015,
         'type_div_central' => 'dotted',
-        'logo_study' => 'https://realeselvis.online/wp-content/uploads/2024/02/ucv.webp',
+        'logo_study' => 'https://realeelvis.online/wp-content/uploads/2024/02/ucv.webp',
         'bg_year_experience' => 'rgba(253, 220, 1, 0.75)',
         'bg_year_study' => 'rgba(142, 80, 52, 0.75)',
     ),
@@ -414,7 +414,7 @@ $multimedias = array(
         'bg_year_study' => 'rgba(142, 80, 52, 0.75)',
     ),
     'year_2017' => array(
-        'logo_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/farmatodo-logo.webp',
+        'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/farmatodo-logo.webp',
         'year' => 2017,
         'type_div_central' => 'dotted',
         'logo_study' => '',
@@ -438,10 +438,10 @@ $multimedias = array(
         'bg_year_study' => 'rgba(161, 207, 107, 0.75)',
     ),
     'year_2020' => array(
-        'logo_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/1674490415487.webp',
+        'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/1674490415487.webp',
         'year' => 2020,
         'type_div_central' => 'decade',
-        'logo_study' => 'https://realeselvis.online/wp-content/uploads/2024/02/icfes.png',
+        'logo_study' => 'https://realeelvis.online/wp-content/uploads/2024/02/icfes.png',
         'bg_year_experience' => 'rgba(255, 0, 131, 0.75)',
         'bg_year_study' => 'rgba(161, 207, 107, 0.75)',
     ),
@@ -454,8 +454,8 @@ $multimedias = array(
         'bg_year_study' => 'rgba(161, 207, 107, 0.75)',
     ),
     'year_2022' => array(
-        'logo_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/konecta-logo.webp',
-        'bg_image_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/Farmatodo.png',
+        'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/konecta-logo.webp',
+        'bg_image_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/Farmatodo.png',
         'title_experience' => 'Sentire Taller SAS',
         'date_experience' => 'Practicante de programación - Sep 2023 / Actualidad',
         'text_experience' => 'Usamos plugins como ACF, Learndash, Woocommerce, entre otros. Administramos las bases de datos en MySQL a través de PhpMyAdmin (C-panel). Desarrollo y despliegue de app’s (sin código) para IOS y Android con Ádalo y AppMySite (se integra a Wordpress a través de su  plugin). En las plataformas: futurosresidentes.com y sculapp.com',
@@ -467,15 +467,15 @@ $multimedias = array(
         'bg_year_study' => 'rgba(254, 89, 1, 0.75)',
     ),
     'year_2023' => array(
-        'logo_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/Diseno-sin-titulo-1-4.png',
-        'bg_image_experience' => 'https://realeselvis.online/wp-content/uploads/2024/02/Diseno-sin-titulo-1.png',
+        'logo_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/dise195177o-sin-t195173tulo-1.webp',
+        'bg_image_experience' => 'https://realeelvis.online/wp-content/uploads/2024/02/Diseno-sin-titulo-1.png',
         'title_experience' => 'Sentire Taller SAS',
         'date_experience' => 'Practicante de programación - Sep 2023 / Actualidad',
         'text_experience' => 'Experiencia en desarrollo web, y soluciones para usuarios de plataformas centradas en la educación en línea, a través de la metodología SCRUM (Trello) y control versiones con Git. Usando tecnologías como PHP, JavaScript, HTML, Tailwind y React entre otras, para integrar diseños de Figma en páginas desarrolladas en WordPress. Usamos plugins como ACF, Learndash, Woocommerce, entre otros. Administramos las bases de datos en MySQL a través de PhpMyAdmin (C-panel). Desarrollo y despliegue de app’s (sin código) para IOS y Android con Ádalo y AppMySite (se integra a Wordpress a través de su  plugin). En las plataformas: futurosresidentes.com y sculapp.com',
         'year' => 2023,
         'type_div_central' => 'dotted',
-        'logo_study' => 'https://realeselvis.online/wp-content/uploads/2024/02/logo-sena.webp',
-        'bg_image_study' => 'https://realeselvis.online/wp-content/uploads/2024/02/Diseno-sin-titulo-1-1.png',
+        'logo_study' => 'https://realeelvis.online/wp-content/uploads/2024/02/logo-sena.webp',
+        'bg_image_study' => 'https://realeelvis.online/wp-content/uploads/2024/02/Diseno-sin-titulo-1-1.png',
         'title_study' => 'Software - Sentire Taller SAS (Almus)',
         'date_study' => 'Septiembre 2023 - Actualidad',
         'text_study' => 'Este es el texto de descriptivo de la experiencia estudiantil',
@@ -557,14 +557,14 @@ $multimedias = array(
         </div>
 
         <!-- If we need pagination -->
-        <div class="swiper-pagination"></div>
+        <!-- <div class="swiper-pagination"></div> -->
 
         <!-- If we need navigation buttons -->
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>
 
         <!-- If we need scrollbar -->
-        <div class="swiper-scrollbar"></div>
+        <!-- <div class="swiper-scrollbar"></div> -->
     </div>
 
     <!-- Popup para mostrar info experience -->
